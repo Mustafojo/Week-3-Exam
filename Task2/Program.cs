@@ -1,0 +1,1 @@
+﻿// Inheritance az nasl ba nasl guzaronidani 2 classa inheritance megan
